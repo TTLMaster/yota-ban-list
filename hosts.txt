@@ -37,7 +37,6 @@ live.rads.msn.com
 lm.licenses.adobe.com
 lmlicenses.wip4.adobe.com
 msedge.net
-msntest.serving-sys.com
 na1r.services.adobe.com
 oca.telemetry.microsoft.com
 oca.telemetry.microsoft.com.nsatc.net
@@ -45,7 +44,6 @@ r5---sn-n8v7lne6.gvt1.com
 r8---sn-n8v7znee.c.pack.google.com
 rad.msn.com
 redirector.gvt1.com
-redir.metaservices.microsoft.com
 reports.wes.df.telemetry.microsoft.com
 secure.flashtalking.com
 services.wes.df.telemetry.microsoft.com

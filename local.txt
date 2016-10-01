@@ -40,7 +40,6 @@
 127.0.0.1 lm.licenses.adobe.com
 127.0.0.1 lmlicenses.wip4.adobe.com
 127.0.0.1 msedge.net
-127.0.0.1 msntest.serving-sys.com
 127.0.0.1 na1r.services.adobe.com
 127.0.0.1 oca.telemetry.microsoft.com
 127.0.0.1 oca.telemetry.microsoft.com.nsatc.net
@@ -48,7 +47,6 @@
 127.0.0.1 r8---sn-n8v7znee.c.pack.google.com
 127.0.0.1 rad.msn.com
 127.0.0.1 redirector.gvt1.com
-127.0.0.1 redir.metaservices.microsoft.com
 127.0.0.1 reports.wes.df.telemetry.microsoft.com
 127.0.0.1 secure.flashtalking.com
 127.0.0.1 services.wes.df.telemetry.microsoft.com

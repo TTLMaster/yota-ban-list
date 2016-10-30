@@ -1,3 +1,6 @@
+apps.corel.com 
+corel.com
+apps.corel.com
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net

@@ -13,7 +13,6 @@ genuine.adobe.com
 64.0.0.0/8
 cdn.content.prod.cms.msn.com
 statsfe2.update.microsoft.com
-clients4.google.com
 encrypted-tbn1.gstatic.com
 crl.microsoft.com
 204.79.197.200
@@ -59,14 +58,12 @@ encrypted-tbn4.gstatic.com
 oca.telemetry.microsoft.com.nsatc.net
 office15client.microsoft.com
 flex.msn.com
-tools.google.com
 65.55.108.23
 sci1-1.am.microsoft.com
 sls.update.microsoft.com.akadns.net
 sls.update.microsoft.com.nsatc.net
 settings-win.data.microsoft.com
 sci2-1.am.microsoft.com
-clients1.google.com
 2.tlu.dl.delivery.mp.microsoft.com
 watson.live.com
 vortex.data.microsoft.com
@@ -192,7 +189,6 @@ sls.update.microsoft.com
 sO.2mdn.net
 pre.footprintpredict.com
 wdcpalt.microsoft.akadns.net
-mtalk.google.com
 practivate.adobe.com
 feedback.microsoft-hohm.com
 ads2.msads.net
@@ -260,7 +256,6 @@ wdcpalt.microsoft.akadns.net
 wes.df.telemetry.microsoft.com
 win10.ipv6.microsoft.com
 www.msftncsi.com
-clients2.google.com
 wes.df.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
 a-0009.a-msedge.net
@@ -277,7 +272,6 @@ e5486.g.akamaiedge.net
 javadl-esd-secure.oracle.com.edgekey.net
 adnxs.com
 db3aqu.atdmt.com
-safebrowsing.google.com
 telemetry.microsoft.com
 v4.download.windowsupdate.com
 javadl-esd-secure.oracle.com

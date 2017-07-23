@@ -2,8 +2,6 @@
 2.tlu.dl.delivery.mp.microsoft.com
 7.tlu.dl.delivery.mp.microsoft.com
 HK2SCH130021344.wns.windows.com
-a-0001.a-msedge.net
-a-0002.a-msedge.net
 e11290.dspg.akamaiedge.net
 dl.delivery.mp.microsoft.com
 reports.wes.df.telemetry.microsoft.com
